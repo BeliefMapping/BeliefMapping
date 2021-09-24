@@ -1,14 +1,16 @@
-![Belief Mapping: Warm Hearts, Cool Heads](/images/Logo400.png)
-The Open Source Technique for Belief Mapping.
+<img align="right" width="220" src="/images/Logo400.png">
+
+# The Open Source Technique for Belief Mapping
 
 Belief Mapping is easy. Here's how.
+
 
 # The Short Version
 
 * **Prepare**. Choose a topic, a time and a place; and invite people (participants and, optionally, speakers)
 * **Hold the event**. Ask the participants to record on whiteboards or flipcharts how their beliefs on the subject compare, writing down their points of agreement, disagreement and unknowns. Two or three hours is a good length.
-* Optionally: **record the outcome and share it with others.**
-* Optionally: **schedule a follow-on.**
+* **Record the outcome and (optionally) share it with others.**
+* **(Optionally) schedule a follow-on.**
 
 # The (Slightly) Longer Version
 
@@ -16,7 +18,7 @@ Belief Mapping is easy. Here's how.
 ### Choosing The Topic
 Belief Mapping works well with simple one-sentence yes/no questions that people can easily form a initial view on (sometimes with the help of a grounding in the subject provided by your speakers). The process is built around asking _why_ - why you and others believe what you do about the subject at hand. It works less well with open questions such as '_what should be done about..._' or tasks like making a plan or devising a strategy.
 
-### Finding A Time and Place
+### Finding a Time and Place
 It is up to you to find times and places that work for the participants you are aiming to involve. People will be standing up around whiteboards or flipcharts, so it helps to have a space that is big enough for people to move around, has some seating for those who want it but without being rigidly laid out in rows, and where you can provide access to toilets and refreshments. 
 
 ### Inviting People
@@ -26,32 +28,31 @@ Some techniques for engaging people emphasise demographic representation. This i
 
 Speakers are optional. Depending on the topic, it can be helpful to have one or two outside experts attend to give a short 10 minute talk on the subject, and to circulate during the discussion to answer questions.
 
-### Holding the event
+## Holding the Event
 
+### Setting Up the Space
 The space should be set up with enough whiteboards or flipcharts for there to be 4-5 participants gathered around each, and with an ample supply of pens, and board rubbers and sheets of paper if applicable.
 
 Write down the question people are discussing in large writing and in clear view to help people stay on-topic. Also put clearly the four things you are asking them to record: their points of agreement, their points of disagreement, their unknowns and how those things fit together. 
 
 People will need access to toilets and refreshments, so make sure these are accessible from the start.
 
-After a short introduction, and the short talks from the speakers if applicable, people should be assigned to groups. This is best done for them. One way to do this is to give them name labels with colours or numbers on. Avoid letting them choose their own groups, which will result in people talking only to people they know.
+### Facilitating the Event
+After a quick welcome and introduction, and short talks from the speakers if applicable, people should be assigned to groups. One way to do this is to give people name labels with colours or numbers on. If people choose their own groups they  end up talking only to people they know, so it is best if groups are assigned for them.
 
-Once the discussions begin, the facilitator and speakers can circulate and listen to the discussions taking place, to understand the directions they are going in. Groups will usually discuss the subject in their groups without writing anything down for a large part of the session. This is fine, they will usually get to writing things down eventually. Sometimes a group's discussion will stagnate, usually because they all agree or because they are obstructed by unknowns. If this happens the facilitator can mix up some of the groups, redirect the members of this group to other groups, or direct speakers to help them with their unknowns.
+Once the discussions begin, the facilitator and speakers can circulate and listen to the discussions taking place, to understand how they are panning out. Groups will usually discuss the subject without writing anything down for a large part of the session. This is fine; they will get to writing things down eventually. Sometimes a group's discussion will stagnate, usually because they all agree or because they are obstructed by unknowns. If this happens the facilitator can mix up some of the groups, redirect the members of this group to other groups, or direct speakers to help them with their unknowns.
 
-After around two hours, energy levels often start to flag. This is the time to wind up the discussion and take a break for around 15 minutes. The whole group can then reconvene to summarise the outcomes of their discussions, after which the session is closed.
+After around two hours, energy levels often start to flag. This is the time to wind up the discussion and take a 15 minute break. The whole session can then reconvene for a final 30 minutes for the groups to summarise their outcomes, after which the session is closed.
 
-
-### Recording the outcome
-
+## Recording the Outcome
 If the session has been successful, the outcomes will be reasonably well recorded on the whiteboards or flipcharts. But, sometimes these are hard to make sense of, so it is worth the organisers annotating or using those sheets to recording the outcomes in more detail while their recollections are fresh, by writing a short summary. These can then be shared with the participants. Do not attribute views to people in this record - it is important tat people feel free to express their views or conduct thought experiments during these sessions without risk of being held to or humiliated by those views later. Only with this freedom can people truly explore and understand their beliefs.
 
 This record is the _product_ of a Belief Mapping session, and will inform the questions chosen for follow-on sessions. Often, this record will also be of wider interest, and it is worth publishing it in relevant forums to people who did not attend, for whom it will help them to understand how their views fit with those of others. 
 
-### Scheduling a follow-on
+## Scheduling a Follow-On
+The record of previous Belief Mapping sessions will inevitably expose unanswered questions, a need for factual input and a set of narrower conflicts of values or beliefs. These narrower disagreements are useful areas for further exploration to understand the map better, and the gaps between events provide time to seek factual input where possible. It can be useful to invite some of the same participants, particularly those whose views were involved in the specific narrower conflicts you want to explore, together with new participants whose views may differ from those at the previous event. 
 
-The record of previous Belief Mapping sessions will inevitably expose unanswered questions, a need for factual input and a set of narrower conflicts of values or beliefs. These narrower disagreements are useful areas for further exploration to understand the map better, and the gaps between events provide time to seek factual input where possible. It can be useful to invite some of the same participants, particularly those whose views were involved in those narrower conflicts, together with new participants whose views may differ from those at the previous event. 
-
-# How To Contribute
+# How to Contribute
 Belief mapping is open source, which means you can contribute to its design. The driving principles are that Belief Mapping sessions should be:
 
 1. easy to organise and run;
